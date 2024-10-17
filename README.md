@@ -1,7 +1,7 @@
 # Travel Touristic Agency Reservation System
 
 ## Description
-This project is a **web-based reservation system** for a travel agency. Users can view available travel packages, check details, and book their reservations online. The system includes a front-end interface built with **HTML**, **Bootstrap**, and **CSS**, and a back-end powered by **PHP** and **MySQL**.
+This project is a **web-based reservation system** for a travel agency. Users can view available travel packages, check details, and book their reservations online. The system includes a front-end interface built with **HTML**, **Bootstrap**, and **CSS**, and a back-end powered by **PHP** and **MySQL**..
 
 ---
 
